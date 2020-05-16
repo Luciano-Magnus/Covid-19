@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boletim_Covid19</string>
+    <string name="país">Countries:</string>
+    <string name="data">Date:</string>
+    <string name="casos_confirmados">Confirmed:</string>
+    <string name="casos_recuperados">Recovered:</string>
+    <string name="hora">HOUR</string>
+    <string name="mortes">Dead:</string>
+    <string name="n_casos_mundo">CONFIRMED CASES IN THE WORLD</string>
+    <string name="n_casos_brasil">CONFIRMED CASES IN BRAZIL</string>
+    <string name="atualizacao">Updated:</string>
+    <string name="selecione">Select the desired category:</string>
+    <string name="suspeitos">Suspects</string>
+    <string name="estados">State</string>
+
+</resources>

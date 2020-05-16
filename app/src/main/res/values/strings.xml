@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Boletim_Covid19</string>
+    <string name="país">Países:</string>
+    <string name="data">Data:</string>
+    <string name="casos_confirmados">Confirmados:</string>
+    <string name="casos_recuperados">Recuperados:</string>
+    <string name="hora">HORA</string>
+    <string name="mortes">Mortos:</string>
+    <string name="n_casos_mundo">CASOS CONFIRMADOS NO MUNDO</string>
+    <string name="n_casos_brasil">CASOS CONFIRMADOS NO BRASIL</string>
+    <string name="selecione">Selecione a categoria desejada:</string>
+    <string name="atualizacao">Atualizado em:</string>
+    <string name="suspeitos">Suspeitos </string>
+    <string name="estados">Estados</string>
+</resources>
